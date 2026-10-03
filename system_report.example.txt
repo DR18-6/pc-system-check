@@ -1,0 +1,12 @@
+PC SYSTEM CHECK
+========================================
+Operating system: Example OS
+OS version: Example version
+Machine architecture: Example architecture
+Processor: Example processor
+Python version: 3.x.x
+Computer name: example-computer
+Report created: YYYY-MM-DD HH:MM:SS
+
+This is an example only. Run system_check.py to generate a report
+containing information from your own computer.
